@@ -1,6 +1,6 @@
 # Chaos Unicorn Day, April 1 2019 (aka kill our cluster)
 
-Chaos Unicorn Day is an event for projects in Ethereum and Web3 space. It is a challenge to turn off centralized services for 24 hours and practice what we preached. These include things like:
+Chaos Unicorn Day is an event for projects in Ethereum and Web3 space. It is a challenge to turn off centralized services for 24 hours and practice what we preach. These include things like:
 
 - clusters
 - Infura access
@@ -35,4 +35,4 @@ Go [here](https://discuss.status.im/t/chaos-unicorn-day-april-1-2019-aka-kill-ou
 ## How do I particpate?
 Go [here](https://discuss.status.im/t/chaos-unicorn-day-april-1-2019-aka-kill-our-cluster/974/) and let us know!
 
-Alternatively, tweet using the hashtag #chaosunicorn.
+You can also tweet using the hashtag #chaosunicorn as well as join #chaos-unicorn-day on Status.
