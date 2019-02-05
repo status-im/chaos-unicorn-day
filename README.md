@@ -26,6 +26,9 @@ We are still not in the app store, and our core user base is likely going to und
 
 This is a perfect opportunity while we are still small and in beta. We don’t want to be “too big (and fragile) to fail”. This allows us to set the terms, as opposed to the terms being set for us in the future (Infura paywall, credit card for cluster blocked).
 
+## Cool idea but this site sucks.
+That's not a question, but feel free to contribute [here](https://github.com/status-im/chaos-unicorn-day)!
+
 ## Where can I read more?
 Go [here](https://discuss.status.im/t/chaos-unicorn-day-april-1-2019-aka-kill-our-cluster/974/)
 
