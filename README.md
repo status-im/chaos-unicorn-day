@@ -10,7 +10,7 @@ Chaos Unicorn Day is an event for projects in Ethereum and Web3 space. It is a c
 
 Basically, anything that can be classified as a gateway or is paid for by any entity. More broadly: anything that _can_ be shut down at all, should be.
 
-## What does it mean for users?
+## (Status) What does it mean for users?
 
 From April 1, 9 AM UTC to April 2, 9 AM UTC you will not receive messages or see message history. 
 
