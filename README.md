@@ -10,6 +10,14 @@ Chaos Unicorn Day is an event for projects in Ethereum and Web3 space. It is a c
 
 Basically, anything that can be classified as a gateway or is paid for by any entity. More broadly: anything that _can_ be shut down at all, should be.
 
+## What does it mean for users?
+
+From April 1, 9 AM UTC to April 2, 9 AM UTC you will not receive messages or see message history. 
+
+Workaround: Add custom bootnode and mailserver. You can search for existing ones shared by community in twitter using the hashtag #chaosunicorn or mentioned [here](https://discuss.status.im/t/chaos-unicorn-day-april-1-2019-aka-kill-our-cluster/974/), e.g. [this](https://gist.github.com/jacqueswww/3ddfc5ecfa09ecea702744ab15a2200d) You can also run your own mailserver/bootnode as described [here](https://our.status.im/bulletproofing-against-chaos-unicorns-with-status-on-arm/)
+
+In addition, on Status mobile app 0.11.0 you will not see transaction history, fiat value for assets in Wallet and get an error after attempt to send a transaction.
+
 ## Why?
 
 The goal of decentralization and censorship is wildely shared in the Ethereum/Web3 community, at least in theory. In practice however, too many projects, Status included, rely on centralized services and take shortcuts to get a working product or service. We want to change that.
