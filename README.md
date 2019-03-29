@@ -16,7 +16,10 @@ From April 1, 9 AM UTC to April 2, 9 AM UTC you will not receive messages or see
 
 Workaround: Add custom bootnode and mailserver. You can search for existing ones shared by community in twitter using the hashtag #chaosunicorn or mentioned [here](https://discuss.status.im/t/chaos-unicorn-day-april-1-2019-aka-kill-our-cluster/974/), e.g. [this](https://gist.github.com/jacqueswww/3ddfc5ecfa09ecea702744ab15a2200d) You can also run your own mailserver/bootnode as described [here](https://our.status.im/bulletproofing-against-chaos-unicorns-with-status-on-arm/)
 
-In addition, on Status mobile app 0.11.0 you will not see transaction history, fiat value for assets in Wallet and get an error after attempt to send a transaction.
+In addition:
+
+* On Status mobile app 0.11.0 you will not see transaction history, fiat value for assets in Wallet and get an error after attempt to send a transaction.
+* On Status desktop app before 0.11.0(get it [here](https://status.im/get_desktop/)) you will not be able to add custom bootnodes or mailservers in the UI.
 
 ## Why?
 
